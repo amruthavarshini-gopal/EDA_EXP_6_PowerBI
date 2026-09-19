@@ -60,7 +60,8 @@ Create appropriate DAX measures or calculated columns wherever required for the 
 
 **Output**
 
-<img width="1170" height="657" alt="image" src="https://github.com/user-attachments/assets/69699901-9f06-4512-a22b-afed0640ff05" />
+<img width="1167" height="656" alt="image" src="https://github.com/user-attachments/assets/f2df02d2-e10e-4153-b47b-54947ea3a730" />
+
 
 
 
