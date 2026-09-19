@@ -1,9 +1,11 @@
 **Case Study: Healthcare Patient Tracking Analysis using Power BI**
+
 **Aim**
 
 To analyze a healthcare patient tracking dataset using Power BI, perform data preparation and exploratory analysis, create suitable calculations and visualizations, and develop an interactive dashboard to support patient monitoring and operational decision-making.
 
 **Case Study**
+
 A healthcare organization maintains patient tracking information such as patient status, admission and discharge dates, approved days, insurance details, authorization information, and extension requirements.
 
 As a data analyst, analyze the given dataset and develop a Power BI dashboard that helps hospital staff understand the current patient situation and identify cases that may require attention.
@@ -37,6 +39,7 @@ Explore the available fields and identify important information related to:
     Other relevant patient information
 
 **4. Create Required Calculations**
+
 Create appropriate DAX measures or calculated columns wherever required for the analysis.
 
 
@@ -57,5 +60,11 @@ Create appropriate DAX measures or calculated columns wherever required for the 
 
 **Output**
 
+<img width="1170" height="657" alt="image" src="https://github.com/user-attachments/assets/69699901-9f06-4512-a22b-afed0640ff05" />
+
+
+
+
 **Result**
+
 Thus, the healthcare patient tracking data was successfully analyzed using Power BI, and an interactive dashboard was developed to identify important patient patterns, cases requiring attention, and operational insights for healthcare management.
